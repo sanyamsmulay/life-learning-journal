@@ -18,7 +18,159 @@ continued from:
 
 
 
-### #86 - Laplaces rule of succession     
+### #79 - Direct to Consumer (D2C) Strategy for launching new products      
+####### Monday 03 July 2023 04:44:29 PM IST #######
+
+- [https://www.youtube.com/watch?v=bYkHbZ3eEn0](https://www.youtube.com/watch?v=bYkHbZ3eEn0)
+-  serving a niche is okay
+- growing LTV ---> bundling, upselling, 
+- loyalty -> exceptional experience throughout - buying experience,  servicing experience, product experience
+  - the feeling of belonging to a community
+  - feeling pride in using your product - product swag
+- customers acquired from discounts - LTV is low
+- identify a **recruiting product**
+  - low friction 
+  - instant gratification
+- using surveys / calculators  / quizzes with small reward to collect user data
+  - try to use this for better engagement
+- try to push adjacent products
+- use sub-brands / sister brands to sell other category of products
+- try to get low customer acquisition channels first - that cater to niche audiences - rather than increasing spends on google,etc
+- make the user your ambassador 
+- be available on the marketplaces 
+
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #80 - Greeb Scientist - tools for streaming ISRO launches     
+####### Monday 03 July 2023 04:44:29 PM IST #######
+
+- [https://www.youtube.com/watch?v=S0Hul3SkSGE](https://www.youtube.com/watch?v=S0Hul3SkSGE)
+- monitoring heart beat 
+- monitoring mood using the EEG monitor: 
+[https://neuphony.com/](https://neuphony.com/)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #81 - Chip is the new oil      
+####### Monday 03 July 2023 04:44:29 PM IST #######
+
+- S Jaishanker on The Ranveer Show     
+[https://www.youtube.com/watch?v=yVTNge3sXpg](https://www.youtube.com/watch?v=yVTNge3sXpg)
+- semiconductor chips are the new oil 
+- PM Modi to External Affair Minister - think of the world as a global workplace
+- there is a world out there for talented Indians
+- "A good sound national choice makes for a leeway in personal choice"  
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #82 - PM Modi's addresses to the congress      
+####### Monday 03 July 2023 01:27:37 PM IST #######
+
+- 2016   
+[https://www.youtube.com/watch?v=mE-KLTBfvYQ](https://www.youtube.com/watch?v=mE-KLTBfvYQ)
+- 2023    
+[https://www.youtube.com/watch?v=LLv8iay__FI](https://www.youtube.com/watch?v=LLv8iay__FI)
+- good to contrast them
+- some reactions to the 2023 address
+  - DD News   
+  [https://www.youtube.com/watch?v=V7cJUidAfrI](https://www.youtube.com/watch?v=V7cJUidAfrI)
+  - S Jiashanker - explaining the mood at the visit and the significance      
+  [https://www.youtube.com/watch?v=L2ILBNPvw60](https://www.youtube.com/watch?v=L2ILBNPvw60)
+  - reactions from business leaders     
+  [https://www.youtube.com/watch?v=excacYkku4s](https://www.youtube.com/watch?v=excacYkku4s)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #83 - Top Gear and Tesla     
+####### Monday 03 July 2023 01:27:37 PM IST #######
+
+- [https://www.youtube.com/shorts/0OLLI70_kDQ](https://www.youtube.com/shorts/0OLLI70_kDQ)
+- this is how propaganda is propagated
+- I think Musk almost cried - true founder mentality
+- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #84 - APJ Abdul Kalam on various things      
+####### Monday 03 July 2023 01:27:37 PM IST #######
+
+- [https://www.youtube.com/shorts/8l3Md3-gyZM](https://www.youtube.com/shorts/8l3Md3-gyZM)
+- have great primary teachers
+- pay them well
+
++ how to stay young and happy 
++ [https://www.youtube.com/shorts/DPLmBuF3Xlw](https://www.youtube.com/shorts/DPLmBuF3Xlw)
+
+- APJ on senior secondary education 
+- [https://www.youtube.com/shorts/F7U3J9AJS8M](https://www.youtube.com/shorts/F7U3J9AJS8M)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #85 - Neural network as a function     
+####### Monday 03 July 2023 01:27:37 PM IST #######
+
+- that can replicate almost any other function
+- [https://www.youtube.com/watch?v=0QczhVg5HaI](https://www.youtube.com/watch?v=0QczhVg5HaI)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #85 - Legendary PARC labs     
+####### Monday 03 July 2023 12:55:35 PM IST #######
+
+- [https://www.youtube.com/watch?v=pQocN_c2uLI](https://www.youtube.com/watch?v=pQocN_c2uLI)
+- Also, what Steve Jobs, Bill Gates stole and from where.
+- why Xerox failed still, Steve Jobs breaks down what happened     
+[https://www.youtube.com/watch?v=tGKsbt5wii0](https://www.youtube.com/watch?v=tGKsbt5wii0)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #85 - The difference between a founder and CEO     
+####### Monday 03 July 2023 12:55:35 PM IST #######
+
+- [https://www.youtube.com/watch?v=f8V4XhtQ4H8](https://www.youtube.com/watch?v=f8V4XhtQ4H8)
+- Also, why Steve Jobs fired from Apple
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #86 - Laplace's rule of succession     
 ####### Monday 03 July 2023 12:59:54 AM IST #######
 
 - [https://en.wikipedia.org/wiki/Rule_of_succession](https://en.wikipedia.org/wiki/Rule_of_succession)
@@ -29,6 +181,7 @@ continued from:
 &nbsp;   
 &nbsp;   
 &nbsp;
+
 
 ### #87 - Elon Musk on money   
 ####### Sunday 02 July 2023 11:24:31 PM IST #######

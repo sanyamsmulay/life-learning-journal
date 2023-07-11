@@ -9,11 +9,11 @@ category: humour
 
 
 continued from:  
-[the humour collection page 1](https://sanyamsjournal.blogspot.com/2022/10/the-anecdote-collection-page-1.html)
+[the humour collection page 1](https://sanyamsjournal.blogspot.com/2019/02/comedy-collection.html)
 
 ---
 
-## Anecdotes
+## Bring on the Funnnies
 
 
 
@@ -33,15 +33,8 @@ fast, cheap, high quality - choose any two
 &nbsp;
 
 
-### number 100
-Wabi Sabi   
-####### Thursday 01 June 2023 10:11:14 PM IST #######
-
-- Finally this blog has started.
-- though event the theme is not decided.
-- but the content is shaping up :)
-- now about wabi sabi
-  - [wikipedia page on wabi sabi](https://en.wikipedia.org/wiki/Wabi-sabi#:~:text=In%20traditional%20Japanese%20aesthetics%2C%20wabi,many%20forms%20of%20Japanese%20art.)
-  
-  - perfection is the enemy of good - Voltaire (not confirmed)
-
+### #100
+####### Monday 03 July 2023 01:18:36 PM IST #######
+- This voice over by the dad is killer   
+[https://www.youtube.com/shorts/DefjcFP2sUo](https://www.youtube.com/shorts/DefjcFP2sUo)
+- 

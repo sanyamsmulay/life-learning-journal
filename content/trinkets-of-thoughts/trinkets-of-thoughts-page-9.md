@@ -18,6 +18,91 @@ continued from:
 
 
 
+### #76 - Quark motor - Koenigsegg     
+####### Sunday 30 July 2023 08:54:20 AM IST #######
+
+- [https://www.youtube.com/watch?v=_HCvDjTuYKE](https://www.youtube.com/watch?v=_HCvDjTuYKE)
+- combining radial and axial motors for better performace through the RPM range
+- hybrid with electric for low end + combustion engine for high end is common now
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #76 - New type of engine design - INNengine     
+####### Friday 28 July 2023 04:47:10 PM IST #######
+
+- [https://www.youtube.com/watch?v=9I0_3qFmPUM](https://www.youtube.com/watch?v=9I0_3qFmPUM)
+- crank-head/disc --> rathar than a crank shaft
+- not 1 stroke as the title claims
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #77 - AWS deepracer      
+####### Thursday 27 July 2023 11:07;52 PM IST #######
+
+- [https://www.youtube.com/watch?v=Q_ky7CP7hZM](https://www.youtube.com/watch?v=Q_ky7CP7hZM)
+- what a way to promote research, awareness,... for autonomous cars
+- I am sure all of the interdisciplinary areas of science and technology will progress because of this
+- I have known about this for a long time, got around to documenting this just now - 
+- like my marriage - they are celebrating their 5th year just now
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #78 - pi is everywhere      
+####### Tuesday 18 July 2023 07:23:16 PM IST #######
+
+- [https://www.youtube.com/shorts/YVt3mHn99F4](https://www.youtube.com/shorts/YVt3mHn99F4)
+- moving block apporaching a stationary block with a wall on the direction of velocity 
+- number of collisions give pi digits as the mass ratio of the stationary block and moving block reduces
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #78 - All models are wrong - Systems Engineering      
+####### Tuesday 18 July 2023 04:59:18 PM IST #######
+
+- All models are wrong - but some are useful
+- George Box 
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #78 - Tatas are blessed - Rakesh Jhunjhunwala      
+####### Tuesday 18 July 2023 12:47:37 PM IST #######
+
+- [https://www.youtube.com/shorts/2WDx-JAjpBE](https://www.youtube.com/shorts/2WDx-JAjpBE)
+- why are they blessed ?
+- very similar reasoing to Elon Musk about charity - philanthrophy 
+- for the good of humanity
+- if you build wealth - money and influence for the good of the people - good fortune follows
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
 ### #79 - Direct to Consumer (D2C) Strategy for launching new products      
 ####### Monday 03 July 2023 04:44:29 PM IST #######
 
@@ -151,18 +236,6 @@ continued from:
 - Also, what Steve Jobs, Bill Gates stole and from where.
 - why Xerox failed still, Steve Jobs breaks down what happened     
 [https://www.youtube.com/watch?v=tGKsbt5wii0](https://www.youtube.com/watch?v=tGKsbt5wii0)
-
--x-x-x-
-&nbsp;   
-&nbsp;   
-&nbsp;
-
-
-### #85 - The difference between a founder and CEO     
-####### Monday 03 July 2023 12:55:35 PM IST #######
-
-- [https://www.youtube.com/watch?v=f8V4XhtQ4H8](https://www.youtube.com/watch?v=f8V4XhtQ4H8)
-- Also, why Steve Jobs fired from Apple
 
 -x-x-x-
 &nbsp;   

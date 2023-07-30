@@ -19,8 +19,19 @@ continued from:
 
 
 
-### number 99
-fast, cheap, high quality - choose any two   
+### #98     
+####### Thursday 01 June 2023 11:48:00 PM IST #######
+
+- baby confused by dad's identical twin
+[https://www.youtube.com/shorts/gfyblT_aFgs](https://www.youtube.com/shorts/gfyblT_aFgs)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #99
 ####### Thursday 01 June 2023 11:48:00 PM IST #######
 
 - dho dho ke mara hai bhai reporter ko

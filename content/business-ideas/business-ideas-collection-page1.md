@@ -10,12 +10,51 @@ category: business-ideas
 
 ## Ideas
 
+
+
+https://kukufm.com/
+
+### #95 - Uber for hiring artists    
+####### Thursday 27 July 2023 10:57:25 PM IST #######
+
+- Platform for artists to monetize and get discovered and hired
+- [https://happydemic.com/](https://happydemic.com/)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #96 - Cardiac Diagnostics - remote + AI    
+####### Thursday 27 July 2023 10:57:25 PM IST #######
+
+- [https://www.tricog.com/](https://www.tricog.com/)
+- [https://www.tricog.com/instaecho/](https://www.tricog.com/instaecho/)
+- [https://www.tricog.com/instaecg/](https://www.tricog.com/instaecg/)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #97 - Battries / Energy for hire    
+####### Tuesday 18 July 2023 12:48:19 PM IST #######
+
+- [https://www.orixindia.com/electrix.php](https://www.orixindia.com/electrix.php)
+- interesting business model
+- similar to Hussain's idea
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #98 - Skill mapper - making a skill map   
 ####### Sunday 02 July 2023 06:19:19 PM IST #######
 
-- [https://www.hood.live/](https://www.hood.live/)
-- I guess the topics and the feed mostly takes advantage of morbid curiosity
-- and for the content creators - it is a good anonymous outlet
+- [https://skillmapper.com/](https://skillmapper.com/)
+- [https://chrome.google.com/webstore/detail/skillmapper-social-highli/boafjdagfcanlpplfjfllgoedmkkibie](https://chrome.google.com/webstore/detail/skillmapper-social-highli/boafjdagfcanlpplfjfllgoedmkkibie)
+- the highlighter is good (something similar to my bookmarking system)
 
 -x-x-x-
 &nbsp;   

@@ -14,6 +14,19 @@ category: business-ideas
 
 https://kukufm.com/
 
+### #94 - No code operations control tower soltion    
+####### Sunday 30 july 2023 10:06:57 AM IST #######
+
+- [https://www.locale.ai/](https://www.locale.ai/)
+- make your operations team pro-active
+- instead of handling escalations - manage them before they happen
+- good concept
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #95 - Uber for hiring artists    
 ####### Thursday 27 July 2023 10:57:25 PM IST #######
 

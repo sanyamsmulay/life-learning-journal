@@ -19,6 +19,34 @@ continued from:
 
 
 
+### #83 - Emotional Intelligence - Daniel Goleman    
+####### Thursday 20 July 2023 0%:04:57 PM IST #######
+
+- [https://www.youtube.com/watch?v=Y7m9eNoB3NU](https://www.youtube.com/watch?v=Y7m9eNoB3NU)
+- the framework / basic pillars:
+	- 4 domains for emotional intelligence
+	- self awareness - understanding own emotions - why you are feeling something that you are feeling
+	- self regulation - regulating own emotions - handling disturbing ones and marshalling positive ones
+	- empathy - understanding why someone else is feeling the way they are feeling
+	- applying all three in a skilled relationship
+- last part of the brain to anatomically mature
+	- we should be teaching this in classes
+	- and it like a part that needs to be trained with repeated exposure
+- there are added benefits to training in emotional intelligence
+	- eg - the pre-frontal cortext that regulates emotions, also regulates attention - one of the basic learning skills
+- average IQ going up last 100 years - regular classroom programs
+- can be done for EQ as well.
+- men vs women
+	- women - better at empathy
+	- men - better at self regulation
+- EQ looks different in different cultures
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
 ### #84 - This is how leegnds are made - Kobe    
 ####### Thursday 20 July 2023 0%:04:57 PM IST #######
 

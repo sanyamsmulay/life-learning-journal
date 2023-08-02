@@ -18,6 +18,18 @@ continued from:
 
 
 
+### #76 - CV length rule - 1 page for 5 years     
+####### Monday 31 July 2023 11:42:04 AM IST #######
+
+- don't remember where I read this..
+- but agree with the thumb-rule
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
 ### #76 - Quark motor - Koenigsegg     
 ####### Sunday 30 July 2023 08:54:20 AM IST #######
 

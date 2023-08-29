@@ -18,6 +18,42 @@ continued from:
 
 
 
+### #76 - Airline pilots - occupational hazard     
+####### Monday 28 August 2023 04:11:59 PM IST #######    
+
+- trading life span for money ?
+	- [https://aviationa2z.com/index.php/2023/08/20/gaurav-taneja-reason-for-pilot-deaths/](https://aviationa2z.com/index.php/2023/08/20/gaurav-taneja-reason-for-pilot-deaths/)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #76 - Retention marketing     
+####### Monday 21 August 2023 07:52:01 PM IST #######
+
+- [https://www.youtube.com/watch?v=h1lzJN8nvJo](https://www.youtube.com/watch?v=h1lzJN8nvJo)
+- a very hands-on practical guide to the current state of marketing 
+	- complete marketing funnel needs to to be looked at:
+		- impression
+		- acquisition
+		- activation
+		- repeat usage
+		- stickiness
+		- churn management
+		- lifetime value
+	- thinking of marketing as a profit centre, rather than a cost centre
+	- 
+
+- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
 ### #76 - CV length rule - 1 page for 5 years     
 ####### Monday 31 July 2023 11:42:04 AM IST #######
 

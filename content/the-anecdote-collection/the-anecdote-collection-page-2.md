@@ -16,7 +16,125 @@ continued from:
 ## Anecdotes
 
 
+### #66- Pygmalion effect           
+####### Saturday 09 December 2023 05:37:15 PM IST #######    
 
+- higher expectations lead to higher performance
+	- [https://www.youtube.com/watch?v=4aN5TbGW5JA](https://www.youtube.com/watch?v=4aN5TbGW5JA)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #67- they are not your idols           
+####### Saturday 09 December 2023 05:37:15 PM IST #######    
+
+- do not idolise people with no skill 
+	- [https://www.youtube.com/watch?v=RqfDco_iDSs](https://www.youtube.com/watch?v=RqfDco_iDSs)
+	- well said brother
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #68- misc      
+####### Thursday 26 October 2023 03:15:56 PM IST #######
+- going for success, you remind people of their dreams
+	- when you are on top - it reminds them of the dreams they gave up on
+	- people want you to do well, but not better than them
+	- [https://www.youtube.com/shorts/KtStQZ7EWcY](https://www.youtube.com/shorts/KtStQZ7EWcY)
+
+- success has many fathers, and failure has (none / is an orphan) only one - you
+
+- water the grass where you are at and it will be greener than the rest of the patch
+	- a response to grass is always greener on the other side
+
+- born looking like your dad
+	- die looking like your decisions
+
+- stages of a father son relationship:
+ - [https://www.youtube.com/shorts/j2Ii8KHuUwU](https://www.youtube.com/shorts/j2Ii8KHuUwU)
+	- idolize > deamonize > humanize
+	- [https://www.youtube.com/shorts/R987-ASaHew](https://www.youtube.com/shorts/R987-ASaHew)
+
+- chains of habit are too weak to be felt till they are too strong to be broken
+
+- batman is the real persona, bruce wane is the mask
+	- clark kent is the real persona and superman is the mask
+
+- Clark Kent is an alien's critique of the human race
+	- Bill, Kill Bill - I think
+	
+- duty meets joy ! --> devotion (kids, family) 
+	- Eg. dogs
+
+- live your life like a dog,  more life in every minute
+	- [https://www.youtube.com/shorts/grsV3v4kaeE](https://www.youtube.com/shorts/grsV3v4kaeE)
+	
+- comfort zone 
+	- point outside the comfort zone, is where the magic happens
+- the magic you are looking for is in the work you are avoiding
+
+
+- Kobe is simply playing a different game - this Basketball ++
+	- [https://www.youtube.com/shorts/oGizr78GUNo](https://www.youtube.com/shorts/oGizr78GUNo)
+	- when playing to win, work so much harder than anyone one else that you are in a different league
+	- that is when you dominate
+	
+- Never get so open minded that your brain falls out !!
+	- [https://www.youtube.com/watch?v=5L5NrijVUtI&lc=UgzKA2-0kjUuzB350JN4AaABAg](https://www.youtube.com/watch?v=5L5NrijVUtI&lc=UgzKA2-0kjUuzB350JN4AaABAg)
+	
+- who is the enforcer of rights ? :D lol
+	- men have bestowed rights upon women 
+	- the question dismantles the whole feminism argument
+	- [https://www.youtube.com/watch?v=RR-Ci4FE_FE](https://www.youtube.com/watch?v=RR-Ci4FE_FE)
+
+
+### #70- motivation to win !!      
+####### Saturday 30 September 2023 06:08:40 PM IST #######    
+
+[https://www.youtube.com/shorts/ADPFGaCRiB4](https://www.youtube.com/shorts/ADPFGaCRiB4)
+- Laila Ali -> motivation to win 
+- I am Md. Ali's daughter, doesn't look good on my pops if I lose
+- Damn I will my ass off - to have my kids have that kind of respect
+- It is very hard for successful parents to have successful kids (good men, create easy times and easy times create unsuccessful men)
+
+
+### #82 - Anti-fragility     
+####### Friday 22 September 2023 12:19:23 PM IST #######     
+
+- [https://www.youtube.com/watch?v=e-or_D-qNqM](https://www.youtube.com/watch?v=e-or_D-qNqM) 
+- resilience 
+- anti-fragility
+- chasing happiness itself leads to depression - data
+- pursue happiness indirectly - (like you cannot look at the sun, but enjoy the warmth)
+- SPIRE model
+	- spiritual 
+	- physical well-being
+	- intellectual - ask questions have a passion
+	- relational - with other people 
+	- emotional - gratitude
+- don't know if what happens is for the best
+	- but we can make the best of what happens.
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #82 - How to get butterflies     
+####### Wednesday 13 September 2023 04:22:25 PM IST #######     
+
+Don't waste your time chasing butterflies. Mend your garden, and the butterflies will come. And if not you still will have a beautiful garden.
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
 
 
 ### #83 - Emotional Intelligence - Daniel Goleman    

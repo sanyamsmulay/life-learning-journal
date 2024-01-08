@@ -11,6 +11,23 @@ category: business-ideas
 ## Ideas
 
 
+https://www.runpod.io/gpu-instance/pricing
+- GPUs for rent
+
+https://www.prohance.net/
+- workflow management  
+- give management a semblance of control
+- but yeah if some of the operational issues can be pre-empted, a better solution can be found compared to ad-hoc firefighting
+
+
+https://bluethrone.io/
+- enable app developers to exit 
+- take over and grow the app
+- currently only for iOS apps
+
+https://intelehealth.org/technology/
+
+https://aws.amazon.com/ground-station/
 
 https://kukufm.com/
 

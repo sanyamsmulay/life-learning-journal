@@ -15,10 +15,7 @@ continued from:
 
 ## Unclassified trinkets
 
-
-
-
-### #72 - India - Digital Personal Data protection bill     
+### #51 - India - Digital Personal Data protection bill     
 ####### Mon Jan 22 11:07:54 AM IST 2024 #######    
 
 - [https://www.youtube.com/watch?v=hhYywBa6qrE](https://www.youtube.com/watch?v=hhYywBa6qrE)
@@ -46,7 +43,7 @@ continued from:
 &nbsp;   
 &nbsp;
 
-### #73 - slack music when a huddle call is empty     
+### #52 - slack music when a huddle call is empty     
 ####### Mon Jan 15 05:25:10 PM IST 2024 #######    
 
 - a very thoughtful feature
@@ -63,7 +60,7 @@ continued from:
 &nbsp;   
 &nbsp;
 
-### #74 - Developers have a laptop problem       
+### #53 - Developers have a laptop problem       
 ####### Sat Jan 13 04:43:53 PM IST 2024 #######    
 
 - [https://www.youtube.com/watch?v=bq9O99TgFv4](https://www.youtube.com/watch?v=bq9O99TgFv4)
@@ -74,7 +71,7 @@ continued from:
 &nbsp;   
 &nbsp;
 
-### #74 - Sniping      
+### #54 - Sniping      
 ####### Sat Jan 13 01:07:56 PM IST 2024 #######    
 
 - [https://www.youtube.com/watch?v=iOx08RKXsfk](https://www.youtube.com/watch?v=iOx08RKXsfk)
@@ -84,7 +81,7 @@ continued from:
 &nbsp;   
 &nbsp;
 
-### #75 - Gun culture in Switzerland     
+### #55 - Gun culture in Switzerland     
 ####### Fri Jan 12 12:31:28 PM IST 2024 #######    
 
 - [https://www.youtube.com/watch?v=wnBDK-QNZkM](https://www.youtube.com/watch?v=wnBDK-QNZkM)
@@ -101,7 +98,389 @@ continued from:
 &nbsp;
 
 
-### #76 - Airline pilots - occupational hazard     
+### #56- Jonathan Blow           
+####### Thursday 04 January 2024 05:35:44 PM IST #######    
+
+- Open Source - how it can be better, open source is not innovating only copying
+	- [https://www.youtube.com/watch?v=XLVjSeusPYg](https://www.youtube.com/watch?v=XLVjSeusPYg)
+	- how to 
+	- people building something worthwhile have always been opinionated
+	-  need to have strong opinions on good code and bad code
+	- twitter criticism - is cheap posturing - more toxic than the attitude of developers and maintainers they are criticising
+
+- Preventing the collapse of civilisation - technology declines without conscious effort
+	- [https://www.youtube.com/watch?v=ZSRHeXYDLko](https://www.youtube.com/watch?v=ZSRHeXYDLko)
+	- space race - technology progress 
+	- USA went to the moon and then lost the edge - had to send people in 
+	- then Elon Musk, SpaceX happened
+	- tech does not automatically improve - it degrades
+	- civilisations have lost technology before - many examples given in the video
+	- chip design example from TI - younger engineers did not take induction seriously in packaging
+	- 1177BC, Eric Cline - a number of civilizations fell in 500 years - lots of tech lost
+	- software is in "soft" decline
+		- software has been riding hardware improvement
+		- everything is buggy and people have gotten used to it
+		- the quality of the software is not even a claim anymore in sales
+		- is the art of producing bug-free software lost ?
+		- "tech" company is also a misnomer these days
+		- no new technology is being produced, just parts reassembled
+		- higher level of abstraction --> my view, people do not know / care to know about the underlying details
+		- loss of capability on machine and human level both - 
+			- people don't know or care about the low level
+			- in pursuit of abstraction compatibility/portability is lost
+			- people have less deeper knowledge
+			- knowledge is replaced by trivia 
+				- how cahe coherency works vs how to work around unity jank
+					- universal concept vs very specific info - which will get outdated by next release
+				- good information 
+		- sustainable complexity levels are essential for continuity
+			- my view - good documentation and established training processes are a good way out
+		- also, my argument for "forest for the trees, but can fix a tree if required" 
+			- need people that can transcend the levels of abstraction
+		- what is happening at CPU level is fragile - similar to bronze age reading knowledge
+			-  the bronze age knowledge did not survive
+			- why are we so sure that CPU functioning knowledge will survive
+		- so need to simplify 
+	- tools force a way of thinking !!! - wow ! what a question
+	- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #57- get company details from company name          
+####### Monday 01 January 2024 10:10:50 PM IST #######    
+
+- [https://taxguru.in/income-tax/pan-tan-gstin-company-llp-name.html](https://taxguru.in/income-tax/pan-tan-gstin-company-llp-name.html)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #57- the science of road barriers and tyres          
+####### Wednesday 06 December 2023 11:06:40 PM IST #######    
+
+- [https://www.youtube.com/watch?v=w6CKltZfToY](https://www.youtube.com/watch?v=w6CKltZfToY)
+	- road barrier technology
+- [https://www.youtube.com/watch?v=C9aX0vohM_8](https://www.youtube.com/watch?v=C9aX0vohM_8)
+	- tyre technology
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #58- very nice introduction to pigeonhole principle          
+####### Tuesday 05 December 2023 07:27:06 PM IST #######    
+
+- [https://www.youtube.com/watch?v=FUHkTs-Ipfg](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
+- one extra 360 for the angular rotation added.
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #59- circle rotation paradox         
+####### Monday 04 December 2023 06:27:53 PM IST #######    
+
+- [https://www.youtube.com/watch?v=FUHkTs-Ipfg](https://www.youtube.com/watch?v=FUHkTs-Ipfg)
+- one extra 360 for the angular rotation added.
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #60- India marriage laws are gender biased         
+####### Sunday 03 December 2023 06:32:36 PM IST #######    
+
+- [https://www.youtube.com/watch?v=cbpcPdBqTrY](https://www.youtube.com/watch?v=cbpcPdBqTrY)
+- over correction has swung the pendulum to the other side
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #61-         
+####### Friday 01 December 2023 04:58:12 PM IST #######    
+
+- [https://www.youtube.com/watch?v=6Wt-x21XiEQ](https://www.youtube.com/watch?v=6Wt-x21XiEQ)
+- bachhon ko maa baap ko bhashan dene ka narrative - is dangerous and is purposeful
+- children influence - 30% household purchases.
+- women ko kaise economically use kiya gaya
+- indian women have become the largest consumer compared to the largest savers.
+- [https://www.youtube.com/watch?v=JVERkNJTyWs](https://www.youtube.com/watch?v=JVERkNJTyWs)
+	- sita, kaikai, feminism - 
+	- gandhari, krishna
+	- dalit - all saints that are dalit
+	- dalit - kings
+	- eaklavya - dalit - ?
+		- either accept he was not a dalit - son of the commander in chief of the magadh army
+		- or accept that dalits were - in high positions then
+- [https://www.youtube.com/watch?v=ipYf7OvvpfI](https://www.youtube.com/watch?v=ipYf7OvvpfI)
+	- 
+- [https://www.youtube.com/watch?v=Gmqe9plkyqU](https://www.youtube.com/watch?v=Gmqe9plkyqU)
+	- beautifully explained
+	- "All is fair in love and war not a dharmic concept"
+	- between wars - only khatriya fought, on land designated for war
+	- no pillaging, no burning crops
+	
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #62- many of the famous theories in the west are actually the repackaging of yoga        
+####### Tuesday 28 November 2023 09:35:05 PM IST #######    
+
+- [https://www.youtube.com/watch?v=x0UpwIoV4Go](https://www.youtube.com/watch?v=x0UpwIoV4Go) 
+	- maslows pyramid of needs - chakras
+	- ecto,endo, meso - morph - Kapha, vat, pitta
+	- anima, animose - shiva and shakti
+	- archetypes - arka - sun in sanskrit
+	- phycho-analysis --> yoga soul is a butterfly and we are a caterpillar busy consuming the material world  --> #TODO: fact check this
+	
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #63- inflection point in US sea-of-change 2023       
+####### Tuesday 28 November 2023 03:40:31 PM IST #######    
+
+- [https://www.youtube.com/watch?v=t6QdSwjEGtg](https://www.youtube.com/watch?v=t6QdSwjEGtg)
+	- interest rates have gone down for 40-50 years
+	- interest rates are going up
+	- default will be going up
+	- the impact will be over the years
+	- companies go bankrupt because they cannot borrow anymore
+	-  
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #64- misc       
+####### Monday 20 November 2023 11:24:35 AM IST #######    
+
+- (https://www.usatoday.com/story/money/2023/10/13/claudia-goldin-gender-wage-gap-parents/71128533007/)[https://www.usatoday.com/story/money/2023/10/13/claudia-goldin-gender-wage-gap-parents/71128533007/]
+	- my opinion, judging the worth of women in terms of the money they earn is a disservice to society
+
+- acquiring a complex skill:
+[https://www.youtube.com/watch?v=OI_3bQ-EWSI](https://www.youtube.com/watch?v=OI_3bQ-EWSI)
+- spin-offs from aerospace - https://www.youtube.com/shorts/m4duD6gFchs
+ 
+
+
+- eating habits
+	- [https://www.youtube.com/shorts/8gsKLbxWah0](https://www.youtube.com/shorts/8gsKLbxWah0)
+	- time based feeding is not okay
+	- don't eat after sun-down
+
+- subscriptions fail in india: why ?
+	- Indians are lock-in averse
+	- Need to know brand, quantity and frequency for the purchase
+		- so only very few products qualify
+	- Ease of payment in India, promotes loose coupling
+	- [https://www.youtube.com/shorts/f6HhlmR191Q](https://www.youtube.com/shorts/f6HhlmR191Q)
+
+- divorce stats in same gender couples and different gender couples
+	- [https://www.youtube.com/shorts/P-LlhdZNrAU](https://www.youtube.com/shorts/P-LlhdZNrAU)
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #65- IITB student satellite project - Pratham       
+####### Friday 17 November 2023 12:56:11 AM IST #######    
+
+- I was an active participant for 5 years
+- documenting some of the great moments and achievements
+	- [https://www.aero.iitb.ac.in/satlab/pratham.php](https://www.aero.iitb.ac.in/satlab/pratham.php)
+	- About the launch: [https://www.iitb.ac.in/en/story/launch-pratham](https://www.iitb.ac.in/en/story/launch-pratham)
+	- Launch screening: [https://www.youtube.com/watch?v=k_MsylwiwWM](https://www.youtube.com/watch?v=k_MsylwiwWM)
+	- project wiki: [https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101](https://www.aero.iitb.ac.in/satelliteWiki/index.php/Satellite_101)
+- the spin-off / continuation of the project:
+	- [https://www.aero.iitb.ac.in/satlab/index.php](https://www.aero.iitb.ac.in/satlab/index.php)
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #66- how praise can affect learning and self image in humans       
+####### Thursday 16 November 2023 12:49:14 PM IST #######    
+
+- effort type(you were persistent) praise vs label type(smart, intelligent) feedback 
+	- (https://www.youtube.com/watch?v=59gx55bNunU)[https://www.youtube.com/watch?v=59gx55bNunU]
+	- children tend to pick harder problem when given effort type feedback - leading to growth,
+	- also, label type feedback leads children to only pick problems they know they will be good at 
+	- basically humans tend to stick to the self image they build from the feedback they get
+	- students did significantly better when given 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #68- when a watchdog is watchful      
+####### Wednesday 25 October 2023 10:23:49 PM IST #######    
+
+- [https://www.youtube.com/watch?v=pkGM4MY8ZoQ](https://www.youtube.com/watch?v=pkGM4MY8ZoQ)
+- good move SEBI 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #69- generative design for 3d CAD design      
+####### Wednesday 20 September 2023 09;13:14 PM IST #######    
+
+- [https://www.youtube.com/watch?v=z8fYer8G3Y8](https://www.youtube.com/watch?v=z8fYer8G3Y8)
+- cellular automata 
+- genetic algorithms 
+- shape grammar
+- L-system design
+- agent models - swarm algorithms 
+- Generative adversarial networks
+- another example:
+	- [https://www.youtube.com/shorts/o-AsbyzVBuU](https://www.youtube.com/shorts/o-AsbyzVBuU) 
+	- the structures look organic --> 100% because this is roughly what nature did
+	- convergent evolution
+ 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #70- the state of space exploration and next get ideas     
+####### Monday 11 September 2023 09:30:10 PM IST #######    
+
+- next big step:  in-situ resource utilization (ISRU)
+- [https://gizmodo.com/enhanced-space-access-means-remarkable-new-science-is-o-1850782571](https://gizmodo.com/enhanced-space-access-means-remarkable-new-science-is-o-1850782571)
+- Saptarshi's video on the - lunar crater telescope     
+[https://www.youtube.com/watch?v=MDYkL0krPmw](https://www.youtube.com/watch?v=MDYkL0krPmw)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #71- get bored to get deep into work     
+####### Friday 08 September 2023 07:25:15 PM IST #######    
+
+- [https://www.youtube.com/watch?v=1iNyqomXQt8](https://www.youtube.com/watch?v=1iNyqomXQt8)
+- getting into deep work
+	- we are so scared / averse to getting bored that majority will give them an electric shock rather than get bored
+- All of mankind's problems arise from the fact that because people cannot sit by themselves in a room for 30 minutes alone and always needed to be stimulated and when the iPhone came along boredom was dead.
+- you will do the icky work if the alternative is getting bored
+- attention residue from previous active tasks, does not allow the brain to concentrate
+- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #72- The merits of keeping TODOs     
+####### Sunday 03 September 2023 07:43:01 PM IST #######    
+
+- [https://www.youtube.com/watch?v=6XAu4EPQRmY](https://www.youtube.com/watch?v=6XAu4EPQRmY)
+	- have a wavefront of progressing work to complete the goal
+	- leave TODOs in your wake 
+	- come back to them later
+	- get to a sub-optimal solution that works first
+		- start solving the problem
+		- making money off it
+		- and then make it better
+	- `*` sometimes building gives you a better idea / more clarity about: 
+		- what to build and 
+		- how to build
+	- so to start to build is very important
+- picking your battles
+	- even if that means losing a war
+	- swallowing your pride and letting something be that is not ideal but can be dealt with later 
+- wabi sabi
+- shivaji's strategy of picking off forts from the edges
+- divide an conquer - not the British version
+	- but helpful with solving problems
+- Paul Graham's startups should do unscalable things (to start with)
+- systems engineering - 80% of the cost for a solution is decided by the early 20% design decisions
+	- initial assumptions are not very good - less information
+	- so some design decisions should be deferred if they can be
+	- Eg. forward swept wing vs delta wings
+- triage with impact on usability of solution
+	- not necessarily engineering elegance
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #73- Aerospike Rocket Engines     
+####### Wednesday 30 August 2023 10:43:26 AM IST #######    
+
+- what they are and why they are not in production d
+	- [https://www.youtube.com/watch?v=K4zFefh5T-8](https://www.youtube.com/watch?v=K4zFefh5T-8)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #74- Unitree Go - robot dog     
+####### Wednesday 30 August 2023 10:43:26 AM IST #######    
+
+- retailing at 2500 USD this is a great product at that price 
+	- [https://m.unitree.com/en/go2/](https://m.unitree.com/en/go2/)
+	- [https://www.youtube.com/watch?v=6zPvT0ig1VM](https://www.youtube.com/watch?v=6zPvT0ig1VM)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #75- Mars Society India      
+####### Tuesday 29 August 2023 04:03:04 PM IST #######    
+
+- start of the journey:
+	- chitti: [https://www.youtube.com/watch?v=VtFN718eLC0](https://www.youtube.com/watch?v=VtFN718eLC0)
+	- first prototype
+- where the project currently is:
+	- best navigation award: [https://www.youtube.com/shorts/uyt8wWwBD2U](https://www.youtube.com/shorts/uyt8wWwBD2U)
+	- 2023 team and project: [https://www.youtube.com/watch?v=eB1mUw96i3Y](https://www.youtube.com/watch?v=eB1mUw96i3Y)
+	- all the other versions and team: [https://www.youtube.com/@marsroverteamiitbombay2940/videos](https://www.youtube.com/@marsroverteamiitbombay2940/videos)
+-  the repo:
+	- [https://iitbmartian.github.io/](https://iitbmartian.github.io/)
+- the linkedIn page:
+	- [https://www.linkedin.com/company/mrtiitb/posts/?feedView=all](https://www.linkedin.com/company/mrtiitb/posts/?feedView=all)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #76 - Airline pilots - occupational hazards     
 ####### Monday 28 August 2023 04:11:59 PM IST #######    
 
 - trading life span for money ?

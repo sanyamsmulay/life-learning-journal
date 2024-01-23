@@ -18,6 +18,89 @@ continued from:
 
 
 
+### #72 - India - Digital Personal Data protection bill     
+####### Mon Jan 22 11:07:54 AM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=hhYywBa6qrE](https://www.youtube.com/watch?v=hhYywBa6qrE)
+	- restrictions on letting data be stored abroad
+		- with few exemptions
+	- children related data cannot be targeted for advertisements 
+	- consent can be withdrawn - and data will have to be deleted
+- [https://www.youtube.com/watch?v=n5Owq8yw3kk](https://www.youtube.com/watch?v=n5Owq8yw3kk)
+	- RTI - protection
+		- multiple committees have given an opinion on this
+		- RTI and Data protection law should not be in conflict
+			- recommend strengthen harm test - harm to: property, reputation, identity theft
+		- 81J is used in 35% of cases - so needs to be strengthened - but allegedly it has been made blanket
+		- proviso deleted 
+			- information that cannot be denied to parliament and state - cannot be denied to public 
+		- Lack of independence
+			- body elected by and from govt
+	- similar video: [https://www.youtube.com/watch?v=p_ERWLezCzI](https://www.youtube.com/watch?v=p_ERWLezCzIF) 
+- TODO: watch later
+	- debate: [https://www.youtube.com/watch?app=desktop&v=5WHGqmkrtA4](https://www.youtube.com/watch?app=desktop&v=5WHGqmkrtA4)
+	- full text: [https://www.meity.gov.in/writereaddata/files/Digital%20Personal%20Data%20Protection%20Act%202023.pdf](https://www.meity.gov.in/writereaddata/files/Digital%20Personal%20Data%20Protection%20Act%202023.pdf)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #73 - slack music when a huddle call is empty     
+####### Mon Jan 15 05:25:10 PM IST 2024 #######    
+
+- a very thoughtful feature
+	- never thought that I needed this, but like the feature now
+	- [https://www.reddit.com/r/Slack/comments/qn730d/whats_that_hotel_lobby_music_that_plays_when_the/](https://www.reddit.com/r/Slack/comments/qn730d/whats_that_hotel_lobby_music_that_plays_when_the/)
+	- using assets from their game glitch
+		- no work goes to waste
+	- the jazz: [https://www.youtube.com/watch?v=cvjr6TTsHLQ](https://www.youtube.com/watch?v=cvjr6TTsHLQ)
+	- [https://slack.com/intl/en-in/blog/collaboration/slack-huddles-jukebox-hits-right-notes](https://slack.com/intl/en-in/blog/collaboration/slack-huddles-jukebox-hits-right-notes)
+	
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #74 - Developers have a laptop problem       
+####### Sat Jan 13 04:43:53 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=bq9O99TgFv4](https://www.youtube.com/watch?v=bq9O99TgFv4)
+- laptop custom internal designs have created an anti-competition environment 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #74 - Sniping      
+####### Sat Jan 13 01:07:56 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=iOx08RKXsfk](https://www.youtube.com/watch?v=iOx08RKXsfk)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #75 - Gun culture in Switzerland     
+####### Fri Jan 12 12:31:28 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=wnBDK-QNZkM](https://www.youtube.com/watch?v=wnBDK-QNZkM)
+	- government mandates a shooting range in every village
+	- armed citizen --> a good system for national defence
+	- able bodied people required to be trained and 
+	- USA vs Switzerland --> 
+		- USA - liberty first
+		- Swiss - duty came first (duty, camaraderie and tradition)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
 ### #76 - Airline pilots - occupational hazard     
 ####### Monday 28 August 2023 04:11:59 PM IST #######    
 

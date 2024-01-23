@@ -16,6 +16,17 @@ continued from:
 ## Anecdotes
 
 
+### #71 - Thomas Sowell     
+####### Mon Jan 22 04:43:31 PM IST 2024 #######    
+
+- emotions are useful servants but terrible masters 
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 
 
 

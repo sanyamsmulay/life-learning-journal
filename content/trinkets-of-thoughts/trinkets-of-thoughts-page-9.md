@@ -15,6 +15,101 @@ continued from:
 
 ## Unclassified trinkets
 
+### #49 - Atomic Habits book          
+####### Sat Feb 24 02:33:43 PM IST 2024 #######    
+
+- [https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf](https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf)
+- Form a habit:
+	- make it Obvious --> Attractive --> Easy --> Satisfying
+- Break a habit:
+	- make it Invisible --> Unattractive --> Difficult --> Unsatisfying
+	
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #50 - LEDs - Blue         
+####### Sat Feb 24 02:33:43 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=AF8d72mA41M](https://www.youtube.com/watch?v=AF8d72mA41M)
+- Shuji Nakamura at Nichia
+	- one badass engineer and scientist
+- engineering doping and band gaps
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #51 - Breaking India - Rajiv Malhotra        
+####### Fri Feb  2 04:15:57 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=MFVzVjuj90E](https://www.youtube.com/watch?v=MFVzVjuj90E)
+- I was physically present for this talk (the guy in black in the second row !! @1:20 to @1-25)
+- the talk reminds me of this image:[how to demoralise a people / nation](https://comment-cdn.9gag.com/image?ref=9gag.com#https://img-comment-fun.9cache.com/media/aoKyvp0/aa4ZZ7dJ_700w_0.jpg)
+	- then they will be more pliable 
+- Indian knowledge systems
+	- many knowledge systems are oral
+	- jati-varna and caste are not the same, caste was a force-fitting done to race theory
+	- most are not Brahmanic in origin
+	- eg. Zinc metallurgy was done by NOW lower-cast communities, that where THEN prosperous
+	- caste system is not applicable in India consistently across times
+		- class struggle is the premise of marxism - so there's an agenda
+		- it should be thrown out
+	- knowledge should be credited without the aforementioned politics
+	- Looking at India from a western social science lens is a disservice
+		- a colonial tradition has been established so nobody wants to break this 
+		- lest they lose academic clout / grants / approvals from the West that they look up to
+		- but there are vested interests doing this - this is my opinion
+		- inferiority complex in Indians and superiority of the white skin (evident in our society) can be attributed to this kind of social science being taught
+	- social science is not a science 
+		- propaganda to make these people sound smart - this is my take
+		- science has burden of proof, falsifiability etc
+		- social science is more like a - cartel of school of thought
+		- invasion theory - only invasion has caused India to progress
+			- mostly to justify what Brits did - my take
+		- Eg. India must align with some other block to be significant in the world, not take an independent stance
+			- no faith in India being its own player on the world stage
+			- this was so visionary, Jaishanker doctrine is based on this independence of stance - my take
+			- this complex is not present in the Chinese
+			- we are trained to keep quiet - lest we be called fascist
+		- was Chair of Asian studies in Wisconsin
+		- West never teaches spread of Asian civilisations - only their own 
+			- why do we do the same ? - my question
+			- his example - none of the whites opposed the Idea of teaching good things about Asian civilizations
+			- Indians (social scientists) opposed him - my take - is this not intellectual slavery ?
+			- if the west does not mention slavery and inquisition etc, why do we have to mention problems in the introduction ?
+			- Chinese, Japanese supported him in presenting India+Asia in a positive light - Indians did not
+		- western idea of spread of civilization is - conquest
+				- spread with India - was only soft power - influence - without no army
+				- mostly Indians never set out to conquer
+				- but Buddhism reached Japan 
+		- looking at India from science and tech lens - we get mathematicians, surgeons, etc
+		- social scientists use invasion theory
+		- 
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #50 - Using CRISPR to edit gut microbiome to cure asthama and reduce methane burps in cattle       
+####### Mon Jan 22 11:07:54 AM IST 2024 #######    
+
+- [https://www.wired.com/story/crispr-jennifer-doudna-microbiome/](https://www.wired.com/story/crispr-jennifer-doudna-microbiome/)
+	- current state of the art
+	- yet to identify the side-effects of the technique in the lab
+	- this is a more targeted approach compared to diet changes - which is macro
+	- also, in some cases the diet changes may not be feasible - like feeding cows sea-weed 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #51 - India - Digital Personal Data protection bill     
 ####### Mon Jan 22 11:07:54 AM IST 2024 #######    
 

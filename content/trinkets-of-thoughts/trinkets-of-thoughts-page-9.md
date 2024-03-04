@@ -15,6 +15,19 @@ continued from:
 
 ## Unclassified trinkets
 
+### #48 - Ad hominem          
+####### Mon Mar  4 11:24:01 AM IST 2024 #######    
+
+- [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)
+- the diagram is so cool though !
+	- ![Ad hominem pyramid](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAd_hominem&psig=AOvVaw1EnQS6_XYgzHT_kd5gWENM&ust=1709617829923000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLD9u6r22YQDFQAAAAAdAAAAABAE)
+	
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #49 - Atomic Habits book          
 ####### Sat Feb 24 02:33:43 PM IST 2024 #######    
 

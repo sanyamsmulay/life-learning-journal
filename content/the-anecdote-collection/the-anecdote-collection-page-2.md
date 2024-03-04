@@ -16,6 +16,46 @@ continued from:
 ## Anecdotes
 
 
+### #64 - When you are favoured by God, you are favoured by the devil as well      
+####### Mon Mar 4 07:38:08 PM IST 2024 #######    
+
+- [https://www.youtube.com/shorts/wXGqLZFvdzs](https://www.youtube.com/shorts/wXGqLZFvdzs)
+- Mike Tyson to Francis 
+- you got to leave with the one that got you to the dance (success)
+	- the comments are superb as well
+	- "mike being the guy he needed when he was young"
+
+- Mike Tyson: when god wants to punish you, he will give you everything you want
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #65 - Words have only as much power as you give them      
+####### Mon Mar 4 07:38:08 PM IST 2024 #######    
+
+- [https://www.youtube.com/shorts/wW3tGDOK1VI](https://www.youtube.com/shorts/wW3tGDOK1VI)
+- Dick Gregory
+- Look if I juice an orange right now and threw it on you if you
+stupid enough to believe you a
+orange then you something wrong here (head)
+just go somebody throw that on me if I
+say all you hoes in here stand up you
+get mad you ho I didn't call your name 
+
+It's a game 
+- (my view) people play with the weak minded
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
 ### #66 - Thomas Sowell     
 ####### Mon Jan 22 04:43:31 PM IST 2024 #######    
 

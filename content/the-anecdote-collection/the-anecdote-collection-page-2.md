@@ -16,6 +16,45 @@ continued from:
 ## Anecdotes
 
 
+### #62 - Never give up !        
+####### Tue Mar 12 12:10:45 PM IST 2024 #######    
+
+- [https://www.youtube.com/shorts/KC2y4W_BoBk](https://www.youtube.com/shorts/KC2y4W_BoBk)
+- the little pup has more fire in his/her heart than so many snowflake humans
+- and adult dog - so much compassion !
+- it may be a doctored clip, but the message is fine 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
+### #63 - Take the poison that ails you till it becomes a tonic !!        
+####### Mon Mar 4 07:38:08 PM IST 2024 #######    
+
+- [https://www.youtube.com/shorts/eIsIpzQkp3c](https://www.youtube.com/shorts/eIsIpzQkp3c)
+- The conversation is tremendous:
+
+Peterson talk live he got asked this question: 
+The depth of my Consciousness causes me to suffer is it a blessing or a curse to feel
+everything so very deeply 
+
+Narrator: I was like give that person a podcast !! 
+whoever asked that, it was a phenomenal question
+
+Peterson thought for a moment and he said:
+the only way out is through. 
+You take more of the thing that poisons you, 
+Until you turn it into a tonic that girdles the world around you 
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
 ### #64 - When you are favoured by God, you are favoured by the devil as well      
 ####### Mon Mar 4 07:38:08 PM IST 2024 #######    
 

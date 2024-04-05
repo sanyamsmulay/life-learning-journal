@@ -15,6 +15,50 @@ continued from:
 
 ## Unclassified trinkets
 
+### #47 - GLP1 drugs not working ?           
+####### Tue Apr  2 09:37:18 PM IST 2024 #######    
+
+- originally type-2 diabetes treatment
+- promotes insulin secretion
+- side-effect -> feeling satiated
+	- helps weightloss
+- Ozempic, Wegovy, muonjaro(GLP1 + GIP)
+- issues:
+	- too new for weightloss
+	- people mostly gain back the lost weight
+	- known side-effects exist
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #47 - The Nitrogen triple bond           
+####### Sun Mar 24 10:39:08 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=QQkmJI63ykI](https://www.youtube.com/watch?v=QQkmJI63ykI)
+- fertiliser production and it's impact on human civilisation
+- the video is titled differently on youtube
+- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #47 - World's fastest filming drone - filming F1 cars           
+####### Tue Mar  5 03:38:54 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=9pEqyr_uT-k](https://www.youtube.com/watch?v=9pEqyr_uT-k)	
+- kudos to the Redbull marketing team
+- Please Kudos to the engineers that build the drone !
+- looks superb
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #48 - Ad hominem          
 ####### Mon Mar  4 11:24:01 AM IST 2024 #######    
 

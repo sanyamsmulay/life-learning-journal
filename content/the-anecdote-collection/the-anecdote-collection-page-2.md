@@ -16,6 +16,34 @@ continued from:
 ## Anecdotes
 
 
+### #60 - Swag ho to itna ho        
+####### Fri Apr 26 11:34:02 PM IST 2024 #######    
+
+- swag ho to itna ho: [https://www.youtube.com/shorts/lZ9RpVSS-vM](https://www.youtube.com/shorts/lZ9RpVSS-vM)
+- [https://en.wikipedia.org/wiki/Adrian_Carton_de_Wiart](https://en.wikipedia.org/wiki/Adrian_Carton_de_Wiart)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #61 - Jordy never ceases to amaze and inspire        
+####### Sat Apr 13 08:00:37 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=7yVV3Pguc94](https://www.youtube.com/watch?v=7yVV3Pguc94) 
+- fair enough but the guy with the IQ 145 is prone to The Temptations of the pride of the intellect. 
+And that is Lucifer. 
+That's the worst Temptation Lucifer is the spirit of intellect gone most dreadfully wrong. 
+So sure you can have an IQ of 145 but man you better be on your knees in gratitude that that gift was given to you and you better not misuse it,
+because if that thing takes the upper hand you are in the hands of the worst possible agent of destruction.
+- Ravan basically in the Hindu mythology
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+
 ### #62 - Never give up !        
 ####### Tue Mar 12 12:10:45 PM IST 2024 #######    
 
@@ -23,6 +51,15 @@ continued from:
 - the little pup has more fire in his/her heart than so many snowflake humans
 - and adult dog - so much compassion !
 - it may be a doctored clip, but the message is fine 
+
+
+- [https://www.youtube.com/shorts/GLklQxpgqEg](https://www.youtube.com/shorts/GLklQxpgqEg)
+- be as determined as evolution ?
+- wild oats seeds walk to find a new avenue
+
+- [https://www.youtube.com/shorts/xDhIuUq93FU](https://www.youtube.com/shorts/xDhIuUq93FU)
+- click beetles will bleed fluid from their anterior section but will rise if knocked on their back
+ 
 
 -x-x-x-
 &nbsp;   

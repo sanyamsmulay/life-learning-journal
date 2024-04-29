@@ -15,6 +15,138 @@ continued from:
 
 ## Unclassified trinkets
 
+### #38 - porous material for aircraft engines      
+####### Sat Apr 27 01:55:27 AM IST 2024 #######     
+
+- highest temp in conbustion chambers, stage-1 turbine
+- can use this tech
+- [https://www.youtube.com/watch?v=fwKuCoL9FlM](https://www.youtube.com/watch?v=fwKuCoL9FlM)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #39 - Bladeless fan - Coanda effect      
+####### Sat Apr 27 01:55:27 AM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=VLD8E2UraXw](https://www.youtube.com/watch?v=VLD8E2UraXw)
+- can achieve a multiplier effect of about 15 times
+- [https://www.youtube.com/watch?v=bPZI6XoHi10](https://www.youtube.com/watch?v=bPZI6XoHi10)
+- other applications for achieving high volume flows due to entrainment :
+	- aircraft slide inflators
+	- ship water drainage pumps
+	- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #40 - Image Manipulation in Harvard papers      
+####### Sat Apr 27 01:55:27 AM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=wT-Vgtm2KLM](https://www.youtube.com/watch?v=wT-Vgtm2KLM) 
+- Elizabeth Bick: who caught it
+- [https://www.youtube.com/watch?v=GeAPtIdb4Qs](https://www.youtube.com/watch?v=GeAPtIdb4Qs)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #41 - The robots are coming      
+####### Fri Apr 26 04:45:33 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=7Pq-S557XQU](https://www.youtube.com/watch?v=7Pq-S557XQU)
+- automation is good or bad ?
+	- it is `inevitable`
+- self driving cars, physical labour robots getting cheaper and lighter
+- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #42 - Smith Charts / Impedance matching explained      
+####### Fri Apr 26 04:45:33 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=pXWbdxOAuDs](https://www.youtube.com/watch?v=pXWbdxOAuDs)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #43 - Marathi language - structure and history            
+####### Fri Apr 26 04:45:33 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=tUDqGC_ITeg](https://www.youtube.com/watch?v=tUDqGC_ITeg)
+- very interesting video of how the language and culture co-evolved
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #44 - Pratham progress           
+####### Fri Apr 26 03:23:10 PM IST 2024 #######     
+
+- [https://www.linkedin.com/posts/iitbssp_iitbssp-recently-participated-in-the-cansat-activity-7189465720265588737-2Ons/](https://www.linkedin.com/posts/iitbssp_iitbssp-recently-participated-in-the-cansat-activity-7189465720265588737-2Ons/)
+- launched, deployed parachutes at programmed altitude, telemetry successful - upto a point and then was lost
+- was perceived as a bomb !! due to the sound beacon
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #44 - why women have stripes ?           
+####### Fri Apr 26 01:15:06 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=BD6h-wDj7bw](https://www.youtube.com/watch?v=BD6h-wDj7bw)
+- this blew my mind !!
+- in the female xx --> one has to be deactivated
+- methyl groups added to switch off one of the x
+- by about 100 cells this happens
+- father's x is active or mother's -- it is randomly decided
+- so stripes !!
+- cats example - calico cats !! (their coat colour gene is in their x chromosome)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #45 - Light refraction as waves           
+####### Mon Apr  8 07:55:24 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=KTzGBJPuJwM](https://www.youtube.com/watch?v=KTzGBJPuJwM)
+- light as a wave 
+- reflection, refraction and absorption - explained as wave interference 
+- visual depiction of the Feynman lectures on optics
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #46 - Light refraction as waves           
+####### Mon Apr  8 07:55:24 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=KTzGBJPuJwM](https://www.youtube.com/watch?v=KTzGBJPuJwM)
+- light as a wave 
+- reflection, refraction and absorption - explained as wave interference 
+- visual depiction of the Feynman lectures on optics
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #47 - GLP1 drugs not working ?           
 ####### Tue Apr  2 09:37:18 PM IST 2024 #######    
 
@@ -937,8 +1069,11 @@ continued from:
 ### #88 - Richard Feynman's learning technique   
 ####### Sunday 02 July 2023 11:24:31 PM IST #######
 
-- [https://www.youtube.com/watch?v=tkm0TNFzIeg](https://www.youtube.com/watch?v=tkm0TNFzIeg)
-- 
+- [https://www.youtube.com/watch?v=tkm0TNFzIeg](https://www.youtube.com/watch?v=tkm0TNFzIeg) 
+	- learn
+	- try to teach
+	- re-learn the gaps
+	- re-teach
 
 -x-x-x-
 &nbsp;   

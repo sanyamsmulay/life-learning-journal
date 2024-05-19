@@ -16,6 +16,24 @@ continued from:
 ## Anecdotes
 
 
+### #59 - The bird, the cow, the cat story        
+####### Fri May 17 02:43:52 PM IST 2024 #######    
+
+- [https://www.youtube.com/shorts/bIpz39dHPcg](https://www.youtube.com/shorts/bIpz39dHPcg)
+- contents:
+about a bird whose wings freeze and falls from the sky, only to be saved by a cow's poop. 
+Jimmy's father told the story, and the bird initially believes it's lucky but later realizes the warmth is saving its life. 
+However, the bird is later discovered and eaten by a cat. The moral of the story, 
+- not everyone who shits on you is an enemy, 
+- not everyone who gets you out of shit is a friend, 
+- and when in shit, it's important to remain quiet.
+- and when you are getting out of shit, don't sing on the top of your voice
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #60 - Swag ho to itna ho        
 ####### Fri Apr 26 11:34:02 PM IST 2024 #######    
 

@@ -15,6 +15,43 @@ continued from:
 
 ## Unclassified trinkets
 
+### #36 - how coconut reached India ?      
+####### Thu May  9 07:05:09 PM IST 2024 #######     
+
+-[https://www.youtube.com/watch?v=FD6p1zURt-U](https://www.youtube.com/watch?v=FD6p1zURt-U)
+- started in south east asia
+- fleshy coconut reached on its own !!
+- watery one introduced by traders 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #37 - excitable mediums      
+####### Tue May  7 02:22:43 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=SqhXQUzVMlQ](https://www.youtube.com/watch?v=SqhXQUzVMlQ)
+- cool flame front patterns
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #37 - electrons, spin. orbits      
+####### Tue May  7 02:22:43 PM IST 2024 #######     
+
+- spin, larmor precession, dipole moment
+- [https://www.youtube.com/watch?v=PdN1mweN2ds](https://www.youtube.com/watch?v=PdN1mweN2ds)
+- basically we don't have a visualisation - we have the Math 
+- [https://www.youtube.com/shorts/9cExml-ue4E](https://www.youtube.com/shorts/9cExml-ue4E)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #38 - porous material for aircraft engines      
 ####### Sat Apr 27 01:55:27 AM IST 2024 #######     
 

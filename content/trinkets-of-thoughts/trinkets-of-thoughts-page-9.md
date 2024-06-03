@@ -15,6 +15,18 @@ continued from:
 
 ## Unclassified trinkets
 
+### #35 - image stabilization on a phone      
+####### Fri May 31 03:38:02 PM IST 2024 #######     
+
+-[https://www.youtube.com/shorts/raO56AEmJPQ](https://www.youtube.com/shorts/raO56AEmJPQ)
+- image stabilisation using the phone's accelerometer
+- different from software stabilisation 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #36 - how coconut reached India ?      
 ####### Thu May  9 07:05:09 PM IST 2024 #######     
 

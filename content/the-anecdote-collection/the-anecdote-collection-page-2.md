@@ -16,6 +16,125 @@ continued from:
 ## Anecdotes
 
 
+
+
+### #52 - standing up against injustice          
+####### Mon Jun  3 04:31:45 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=2cXcls6u9qM](https://www.youtube.com/watch?v=2cXcls6u9qM)
+- if you don't stand for injustice done to others, it will soon be done to you
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #53 - honour your father like this          
+####### Fri May 31 05:05:33 PM IST 2024 #######     
+
+- [https://www.youtube.com/shorts/LDA8ud-xE_Q](https://www.youtube.com/shorts/LDA8ud-xE_Q)
+- inspiration for the young
+- do the hard things, cause your dad wanted it - even if he's not there in this world
+
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #54 - wo baap hota hai          
+####### Fri May 31 05:05:33 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=NI_18o6iUPU](https://www.youtube.com/watch?v=NI_18o6iUPU)
+- bachhon ke liye jiye wo baap
+
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #55 - luck is preparation meeting opportunity          
+####### Fri May 31 04:04:51 PM IST 2024 #######     
+
+- [https://www.youtube.com/shorts/oX9TFBEhRk0](https://www.youtube.com/shorts/oX9TFBEhRk0)
+- yesterday's preparation is pushing up your luck :)
+- success only looks effortless
+- 
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #56 - Significance of lotus in granths          
+####### Tue May 28 02:57:01 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=OEOGS8MTDc0](https://www.youtube.com/watch?v=OEOGS8MTDc0)
+- Chose growth in adversity
+- be there in the filth, and still be untouched by it
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #57 - Mehangai badh gayi hai         
+####### Sat May 25 01:55:46 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=U9WzGcnlKyg](https://www.youtube.com/watch?v=U9WzGcnlKyg)
+- contents: 
+```
+दोस्तों लोग बोलते हैं दुनिया बदल गई है
+यह बदल गई है वह बदल गए हैं
+बात वो नहीं जिसके चर्चे उद रहे हैं
+महंगाई नहीं साहब खर्चे बढ़ गए हैं
+पहले नानी के घर मंत्री की छुट्टियां
+अब तो गोवा मनाली
+नहीं साहब
+खर्चे बढ़ गए
+सारे रह रोज यूं ही नहीं मिलते द लोग पहले
+मिलन मिल पैदल चलते द
+
+महंगाई नहीं साहब खर्चे बढ़ गए
+घर में बने खाने पर स्वाद लेकर
+
+
+दो जोड़ी कपड़े में पूरा साल निकलता था बस
+दिवाली के दिन नया जोड़ा सिलता था अब तो
+शौक फैशन के लिए शॉपिंग कर रहे हैं
+महंगाई नहीं साहब खर्चे बढ़ गए हैं
+ईटीवी से पूरा मोहल्ला चलता था एक
+दूरदर्शन से पूरा घर बहलता था
+महंगाई नहीं साहब खर्चे बढ़ गए हैं खर्चे
+35 पैसे के खत का इंतजार रहता था और खत के
+अंदर सबके लिए त्यौहार रहता था
+अब तो बस सब के हाथों में मोबाइल दिख रहे
+हैं
+खर्चे बढ़ गए
+```
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #58 - What follow your dreams misses ? - 3Blue1Brown        
+####### Thu May 23 04:46:35 PM IST 2024 #######    
+
+- [https://www.youtube.com/watch?v=W3I3kAg2J7w](https://www.youtube.com/watch?v=W3I3kAg2J7w)
+- contents: TODO - summarize
+- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #59 - The bird, the cow, the cat story        
 ####### Fri May 17 02:43:52 PM IST 2024 #######    
 

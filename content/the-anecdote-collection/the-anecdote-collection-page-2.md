@@ -18,6 +18,22 @@ continued from:
 
 
 
+### #51 - choose one - strong character or easy life           
+####### Tue Jun  4 09:47:18 PM IST 2024 #######     
+
+- [https://www.youtube.com/shorts/f1r9TODBY8Q](https://www.youtube.com/shorts/f1r9TODBY8Q)
+- only one can happen - easy life or strong character
+
+There is a difference between becoming known and becoming respected,
+don't let an algorith fool you into believing otherwise
+- [https://www.youtube.com/shorts/rbL6CPmcWTw](https://www.youtube.com/shorts/rbL6CPmcWTw)
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #52 - standing up against injustice          
 ####### Mon Jun  3 04:31:45 PM IST 2024 #######     
 

@@ -18,6 +18,20 @@ continued from:
 
 
 
+### #50 - how to maintain success           
+####### Tue Jul 23 06:12:30 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=Z1OE3EYDJUc](https://www.youtube.com/watch?v=Z1OE3EYDJUc)
+- never give up on improving your craft
+
+- [https://www.youtube.com/watch?v=4SwepKSPI_4](https://www.youtube.com/watch?v=4SwepKSPI_4)
+- work becomes your master
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #51 - choose one - strong character or easy life           
 ####### Tue Jun  4 09:47:18 PM IST 2024 #######     
 

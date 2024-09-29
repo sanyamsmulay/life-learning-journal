@@ -15,6 +15,42 @@ continued from:
 
 ## Unclassified trinkets
 
+### #32 - Shiv Kumar Batalvi       
+####### Tue Sep 10 05:56:04 PM IST 2024 #######     
+
+- ToDo: find out more about his literature
+- Ek Kudi - Udta Punjab
+- Illegal Weapon - Shiv di Kitab - is a Batalvi reference
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #33 - HR trend       
+####### Tue Aug  6 01:36:06 PM IST 2024 #######     
+
+- Ye HR admins ke create kiye hue problems hain apparently..
+- Agar dates mein 2 din ka bhi gap hai to they are negotiating people into a lower salary.
+- This is absurd
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #34 - flagelar molecular motor -       
+####### Tue Aug  6 01:36:06 PM IST 2024 #######     
+
+- [https://www.youtube.com/watch?v=VPSm9gJkPxU](https://www.youtube.com/watch?v=VPSm9gJkPxU)
+- God made motor :D
+- how the structure of the molecular level motor was visualised
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #35 - image stabilization on a phone      
 ####### Fri May 31 03:38:02 PM IST 2024 #######     
 

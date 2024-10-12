@@ -8,6 +8,9 @@ So these all my learnings in life curated here. Covers all my varied interests. 
 - select a theme
 - publish on my server
 
+- theme candidates
+	- [https://github.com/ammarjabakji/gatsby-markdown-blog-starter](https://github.com/ammarjabakji/gatsby-markdown-blog-starter)
+	- [https://github.com/chrisnmorrison/revista-gatsby-blog-magazine](https://github.com/chrisnmorrison/revista-gatsby-blog-magazine)
   
 ### Credits
 

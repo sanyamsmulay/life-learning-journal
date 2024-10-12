@@ -15,6 +15,17 @@ continued from:
 
 ## Unclassified trinkets
 
+### #32 - Thinking Fast and Slow - Danile Khanman       
+####### Tue Sep 10 05:56:04 PM IST 2024 #######     
+
+- [https://machine-learning-made-simple.medium.com/what-i-learned-from-thinking-fast-and-slow-2adb4b952859](https://machine-learning-made-simple.medium.com/what-i-learned-from-thinking-fast-and-slow-2adb4b952859)
+- system 1 and system 2 thinking
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #32 - Shiv Kumar Batalvi       
 ####### Tue Sep 10 05:56:04 PM IST 2024 #######     
 

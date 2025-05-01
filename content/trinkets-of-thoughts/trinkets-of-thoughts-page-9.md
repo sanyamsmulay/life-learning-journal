@@ -15,6 +15,68 @@ continued from:
 
 ## Unclassified trinkets
 
+### #29 -          
+####### Thu May  1 04:46:44 PM IST 2025 #######     
+
+
+- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #29 - generative currently cannot replace deep skills         
+####### Sun Apr 27 01:10:11 PM IST 2025 #######     
+
+
+- when you vibe code:
+- [https://www.youtube.com/shorts/FCVyYZu76tc](https://www.youtube.com/shorts/FCVyYZu76tc)
+- engineer and artists - different core skills
+- 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #30 - My LnT internship comes to fruition         
+####### Sun Apr 27 12:12:19 PM IST 2025 #######     
+
+- Poster:
+	- ![Poster for LnT waterjet](https://pbs.twimg.com/media/GokmL4-WUAAuHhO?format=jpg&name=large)
+- Sea trials successful
+- Article link: [https://www.aninews.in/news/national/general-news/drdos-651-kw-waterjet-propulsion-system-successfully-completes-preliminary-sea-trials20250415201617/](https://www.aninews.in/news/national/general-news/drdos-651-kw-waterjet-propulsion-system-successfully-completes-preliminary-sea-trials20250415201617/)
+- Twitter announcement:
+	- [https://x.com/DrdoTdf/status/1912102006665449755](https://x.com/DrdoTdf/status/1912102006665449755)
+- News snippet:
+```
+A key milestone under 
+@DRDO_India
+'s TDF scheme 
+The 651 kW Waterjet Propulsion System, designed & developed indigenously by 
+@larsentoubro
+ (Precision Engineering Systems IC) >70% IC content, successfully completed preliminary sea trials aboard Indian Navy’s Fast Interceptor Craft.
+```
+
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #31 - Kadha for cough and cold        
+####### Tue Mar 25 07:20:49 PM IST 2025 #######     
+
+- lavang, kali mirch, adrak, dalchini, super amazing
+- very fast recovery
+- can try out - adding honey and tulsi also next time
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #32 - Thinking Fast and Slow - Danile Khanman       
 ####### Tue Sep 10 05:56:04 PM IST 2024 #######     
 

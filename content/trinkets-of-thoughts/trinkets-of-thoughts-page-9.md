@@ -15,11 +15,26 @@ continued from:
 
 ## Unclassified trinkets
 
-### #29 -          
-####### Thu May  1 04:46:44 PM IST 2025 #######     
+### #27 - Engineering Metrics - some are useless          
+####### Wed May 28 07:23:27 PM IST 2025 #######     
 
-
+- [https://hybridhacker.email/p/diving-into-engineering-metrics](https://hybridhacker.email/p/diving-into-engineering-metrics)
 - 
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
+### #28 - Best way to use LLMs         
+####### Thu May 22 04:58:21 PM IST 2025 #######     
+
+- [https://www.youtube.com/watch?v=wv779vmyPVY](https://www.youtube.com/watch?v=wv779vmyPVY)
+- Key Insights:
+	- How treating AI as a teammate rather than just a tool can dramatically improve outcomes
+	- Why you should have AI ask you questions instead of just answering yours
+	- How non-technical professionals can leverage AI to achieve extraordinary results
+	- The difference between treating AI as a tool versus as a teammate
 
 -x-x-x-
 &nbsp;   

@@ -15,6 +15,17 @@ continued from:
 
 ## Unclassified trinkets
 
+### #26 - Love this quote - science vs screwing around        
+####### Wed May 28 07:23:27 PM IST 2025 #######     
+
+- [https://www.youtube.com/watch?v=BSUMBBFjxrY](https://www.youtube.com/watch?v=BSUMBBFjxrY)
+- Adam Savage
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #27 - Engineering Metrics - some are useless          
 ####### Wed May 28 07:23:27 PM IST 2025 #######     
 

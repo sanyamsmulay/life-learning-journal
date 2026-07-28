@@ -15,6 +15,16 @@ continued from:
 
 ## Unclassified trinkets
 
+### #26 - How seatbelts work        
+####### Fri Jan 23 05:41:54 PM IST 2026 #######    
+
+- [https://www.youtube.com/watch?v=uRaU1HMJyCo](https://www.youtube.com/watch?v=uRaU1HMJyCo)
+
+-x-x-x-
+&nbsp;   
+&nbsp;   
+&nbsp;
+
 ### #26 - Love this quote - science vs screwing around        
 ####### Wed May 28 07:23:27 PM IST 2025 #######     
 
@@ -1043,7 +1053,7 @@ The 651 kW Waterjet Propulsion System, designed & developed indigenously by
 ####### Tuesday 18 July 2023 07:23:16 PM IST #######
 
 - [https://www.youtube.com/shorts/YVt3mHn99F4](https://www.youtube.com/shorts/YVt3mHn99F4)
-- moving block apporaching a stationary block with a wall on the direction of velocity 
+- moving block approaching a stationary block with a wall on the direction of velocity 
 - number of collisions give pi digits as the mass ratio of the stationary block and moving block reduces
 
 
@@ -1071,7 +1081,7 @@ The 651 kW Waterjet Propulsion System, designed & developed indigenously by
 
 - [https://www.youtube.com/shorts/2WDx-JAjpBE](https://www.youtube.com/shorts/2WDx-JAjpBE)
 - why are they blessed ?
-- very similar reasoing to Elon Musk about charity - philanthrophy 
+- very similar reasoning to Elon Musk about charity - philanthropy 
 - for the good of humanity
 - if you build wealth - money and influence for the good of the people - good fortune follows
 
